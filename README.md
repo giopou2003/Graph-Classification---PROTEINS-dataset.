@@ -1,6 +1,6 @@
-# Graph Classification - PROTEINS Dataset (Milestone 1)
+# Graph Classification - PROTEINS Dataset 
 
-This repository covers **Milestone 1** for graph classification on the **PROTEINS** benchmark dataset using three distinct methodological approaches.
+This repository coversgraph classification on the **PROTEINS** benchmark dataset using three distinct methodological approaches.
 
 ---
 

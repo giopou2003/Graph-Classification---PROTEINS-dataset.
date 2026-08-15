@@ -83,4 +83,4 @@ source venv/bin/activate
 
 ##👥 Συντελεστές
 
-Γιώργος Πουλημένος (ais25113@hua.gr)
+Γιώργος Πουλημένος (ais25113@hua.gr, giopou2003@gmail.com)

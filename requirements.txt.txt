@@ -1,0 +1,13 @@
+torch>=2.0.0
+torch-geometric>=2.3.0
+pyg-lib
+torch-scatter
+torch-sparse
+torch-cluster
+networkx>=3.0
+scikit-learn>=1.0.0
+pandas>=1.4.0
+numpy>=1.22.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+tqdm>=4.64.0

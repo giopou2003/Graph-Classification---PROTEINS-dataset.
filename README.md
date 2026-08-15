@@ -1,6 +1,6 @@
 # Graph Classification - PROTEINS Dataset 
 
-This repository coversgraph classification on the **PROTEINS** benchmark dataset using three distinct methodological approaches.
+This repository coversgraph classification on the **PROTEINS** (https://huggingface.co/datasets/graphs-datasets/PROTEINS)  benchmark dataset using three distinct methodological approaches.
 
 ---
 
